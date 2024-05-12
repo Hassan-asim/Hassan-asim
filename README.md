@@ -65,13 +65,9 @@ Languages, Frameworks, and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" **alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" **alt="xml" width="40" height="40"/>&nbsp;
+
 </div>
 
 
