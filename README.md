@@ -53,6 +53,22 @@ Languages, Frameworks, and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="keras" **alt="keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" **alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original-wordmark.svg" title="openapi" **alt="openapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
   <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
   <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
 </div>
