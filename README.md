@@ -62,8 +62,9 @@ Languages, Frameworks, and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" **alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
   <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
   <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
