@@ -1,137 +1,76 @@
 
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Sufi+Hassan+Asim;AI+Engineer🤖;ML+Specialist🧠;Robotics+Enthusiast🤯" alt="Typing SVG" />
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sufi-hassan-asim/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:hassanasim337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/Hassan-asim"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
+ ⚒ I’m currently working on computer vision and deep learning projects
 
-<div align="center">
-  <img src="https://github.com/Hassan-asim/Hassan-asim/assets/65475965/f5f1d9b9-4d4e-4e1e-9f1f-5e5e5e5e5e5e" width="400" alt="PIXIE Robot Demo">
-</div>
+💞️ I’m looking to collaborate on any machine-learning projects 
 
-## 🚀 About Me
+📫 How to reach me : hassanasim337@gmail.com
 
 
-class AI_Engineer:
-    def __init__(self):
-        self.name = "Sufi Hassan Asim"
-        self.role = "AI/ML Specialist"
-        self.education = "BS Artificial Intelligence @ COMSATS"
-        self.skills = {
-            "AI/ML": ["TensorFlow", "PyTorch", "OpenCV", "YOLO"],
-            "Languages": ["Python", "JavaScript", "Java", "C++"],
-            "DevOps": ["Docker", "AWS", "CI/CD"],
-            "Mobile": ["Flutter", "Android"]
-        }
-        self.achievements = [
-            "🏆 1st Place - COMSATS Career Expo 2025 (PIXIE AI Robot)",
-            "📌 10+ AI Projects Deployed",
-            "🤖 Agentic AI Systems Developer"
-        ]
-    
-    def say_hi(self):
-        print("Let's build the future with AI!")
 
-me = AI_Engineer()
-me.say_hi()
+<h1 align="center">
+Achievements  
+    <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="40px" />
 
-
-## 🔥 My Tech Stack
-
-<div align="center">
+  </h1>
+<div align="center" >
   
-### 🧠 AI/ML Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
-
-### 🌐 Full Stack
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Hassan-asim)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 🏆 Featured Projects
+<h1 align="center" >
+Languages, Frameworks, and Tools  
+  <img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="35px" />
+  </h1>
 
-<!-- 3D Project Cards -->
-<div align="center">
-  <a href="https://github.com/Hassan-asim/PIXIE-AI-Robot">
-    <img src="https://github-readme-3d-card.vercel.app/api?username=Hassan-asim&repo=PIXIE-AI-Robot&theme=radical" width="30%">
-  </a>
-  <a href="https://github.com/Hassan-asim/Agentic-AI-System">
-    <img src="https://github-readme-3d-card.vercel.app/api?username=Hassan-asim&repo=Agentic-AI-System&theme=dark" width="30%">
-  </a>
-  <a href="https://github.com/Hassan-asim/AI-Virtual-Classroom">
-    <img src="https://github-readme-3d-card.vercel.app/api?username=Hassan-asim&repo=AI-Virtual-Classroom&theme=merko" width="30%">
-  </a>
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" **alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" **alt="eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" **alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="keras" **alt="keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" **alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original-wordmark.svg" title="openapi" **alt="openapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" **alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" **alt="xml" width="40" height="40"/>&nbsp;
+
 </div>
 
-## 📊 GitHub Stats
 
-<!-- Dynamic Stats Grid -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-asim&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-asim&theme=radical" width="48%">
-</div>
+<!---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-asim&layout=compact&theme=radical">
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/Hassan-asim/Hassan-asim/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
-## 🎮 Dev Setup
-
-
-{
-  "editor": "VS Code",
-  "theme": "One Dark Pro",
-  "extensions": [
-    "GitHub Copilot",
-    "Python",
-    "Docker",
-    "Jupyter"
-  ],
-  "keyboard": "Mechanical (Blue Switches)",
-  "terminal": "Oh My Zsh"
-}
-
-
-## 📫 Let's Connect!
-
-<!-- Interactive buttons -->
-<p align="center">
-  <a href="mailto:hassanasim337@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me!-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sufi-hassan-asim/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
-  <a href="https://github.com/Hassan-asim?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-</p>
-
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassan-asim&label=Profile%20views&color=0e75b6&style=flat" alt="Hassan-asim" /> 
-</p>
-
-<!-- Spotify currently playing (optional) -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing">
-</p>
 
