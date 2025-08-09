@@ -1,6 +1,4 @@
-Here's a dynamic, visually enhanced README that combines your professional information with interactive elements inspired by al3sha9's profile:
 
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Sufi+Hassan+Asim;AI+Engineer🤖;ML+Specialist🧠;Robotics+Enthusiast🤯" alt="Typing SVG" />
 </h1>
@@ -18,7 +16,7 @@ Here's a dynamic, visually enhanced README that combines your professional infor
 
 ## 🚀 About Me
 
-```python
+
 class AI_Engineer:
     def __init__(self):
         self.name = "Sufi Hassan Asim"
@@ -41,7 +39,7 @@ class AI_Engineer:
 
 me = AI_Engineer()
 me.say_hi()
-```
+
 
 ## 🔥 My Tech Stack
 
@@ -97,7 +95,7 @@ me.say_hi()
 
 ## 🎮 Dev Setup
 
-```json
+
 {
   "editor": "VS Code",
   "theme": "One Dark Pro",
@@ -110,7 +108,7 @@ me.say_hi()
   "keyboard": "Mechanical (Blue Switches)",
   "terminal": "Oh My Zsh"
 }
-```
+
 
 ## 📫 Let's Connect!
 
@@ -136,4 +134,4 @@ me.say_hi()
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing">
 </p>
-```
+
