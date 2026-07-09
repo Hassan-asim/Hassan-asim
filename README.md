@@ -54,16 +54,27 @@ class HassanAsim:
 
 ---
 
-## 🏆 Achievements
-
-<h1 align="center">
-  Achievements
-  <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="40px" />
-</h1>
+## 👁️ Profile Views
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hassan-asim&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://komarev.com/ghpvc/?username=Hassan-asim&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Hassan-asim&style=flat-square&color=brightgreen&label=Total+Visitors" alt="Visitors" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="35px" />
+  <h2>Achievements & Trophies</h2>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-asim&theme=radical&no-frame=false&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -242,7 +253,23 @@ class HassanAsim:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-asim&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Hassan-asim&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🐾 Roaming Avatar – Contribution Snake
+
+<div align="center">
+
+> *Watch the snake roam and eat through my GitHub contributions!* 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hassan-asim/Hassan-asim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hassan-asim/Hassan-asim/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hassan-asim/Hassan-asim/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
