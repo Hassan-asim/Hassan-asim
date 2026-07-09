@@ -32,7 +32,7 @@ class HassanAsim:
     location   = "Islamabad, Pakistan 🇵🇰"
     education  = "BS Artificial Intelligence – COMSATS University Islamabad (2021–2025)"
     
-    current    = "Graduate Trainee Officer (DevOps & AI) @ DPL"
+    current    = "Freelancing globally + pursuing international AI & Cloud certifications"
     
     expertise  = [
         "Agentic AI & Multi-Agent Systems",
@@ -47,7 +47,7 @@ class HassanAsim:
     fun_fact    = "I also served as a Judge at the AI Agents Arena Competition @ COMSATS 🎖️"
 ```
 
-- ⚒ Currently working on **cloud-native AI deployments & CI/CD pipelines**
+- ⚒ Currently **freelancing**, taking **international courses**, and building cutting-edge AI projects
 - 🤝 Open to collaborating on **machine learning, agentic AI, and open-source AI projects**
 - 🚀 Built **40+ projects** spanning Robotics, NLP, Computer Vision, Cybersecurity, and Healthcare AI
 - 📫 Reach me at: **hassanasim337@gmail.com**
@@ -76,11 +76,25 @@ class HassanAsim:
 
 ---
 
+## 🔥 Currently
+
+> I've completed my formal training period and am now fully focused on **levelling up globally** — taking international courses, building real-world AI products, and working with clients worldwide.
+
+| | What I'm Doing |
+|---|---|
+| 🌍 | **International Courses** – Pursuing advanced certifications across AI, Cloud, and DevOps from global platforms |
+| 🤝 | **Freelancing** – Delivering AI solutions, automation systems, and full-stack projects for clients worldwide |
+| 🧪 | **Building & Experimenting** – Continuously shipping personal AI projects and exploring cutting-edge research |
+| 📚 | **Deep Upskilling** – Diving deeper into Agentic AI, LLM fine-tuning, MLOps, and cloud-native architectures |
+| 🌐 | **Open to Opportunities** – Available for remote roles, collaborations, and high-impact AI projects |
+
+---
+
 ## 💼 Experience
 
 | Period | Role | Company |
 |--------|------|---------|
-| Nov 2025 – Present | 🚀 Graduate Trainee Officer (DevOps & AI) | **DPL** – Islamabad |
+| Nov 2025 – May 2026 | 🚀 Graduate Trainee Officer (DevOps & AI) | **DPL** – Islamabad |
 | Oct 2025 – Nov 2025 | 🧠 Deep Learning Engineer | **Resolve** – Islamabad |
 | Jul 2025 – Oct 2025 | 🎓 AI SkillBridge Trainee | **AI SkillBridge Program** – Islamabad |
 | Apr 2024 – Jun 2024 | 🤖 AI Intern | **Launchify LLC** – Islamabad |
