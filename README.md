@@ -69,14 +69,26 @@ class HassanAsim:
 
 <div align="center">
   <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="35px" />
-  <h2>Achievements & Trophies</h2>
+  <h2>GitHub Stats at a Glance</h2>
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan-asim&theme=radical&no-frame=false&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hassan-asim&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Hassan's GitHub Stats" />
 
 </div>
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Hassan-asim?style=for-the-badge&color=blueviolet&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/Hassan-asim?style=for-the-badge&color=yellow&logo=github&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Hassan-asim&logo=github)
+![AWS Badge](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI Certified](https://img.shields.io/badge/DeepLearning.AI-Certified-00A0DC?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
+
+</div>
+
+### 🥇 Real-World Achievements
 
 | 🥇 | Achievement |
 |---|---|
@@ -84,6 +96,9 @@ class HassanAsim:
 | 🎖️ | **Official Judge** – AI Agents Arena Competition, COMSATS University Islamabad (recognized by COMSATS AI Society) |
 | 🤖 | Developed **PIXIE** – Voice-controlled AI Robot with facial recognition, object detection & intelligent navigation |
 | 🔬 | Recognized for AI-driven applications in **university showcases and national competitions** |
+| 🎓 | **BS-AI Graduate** – COMSATS University Islamabad (2021–2025) |
+| ☁️ | **AWS Certified** – Cloud Practitioner + 10+ AWS specialty certifications |
+| 🤝 | **Freelancing** since 2019 – delivering AI solutions globally |
 
 ---
 
