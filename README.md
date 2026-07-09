@@ -65,16 +65,17 @@ class HassanAsim:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
   <img src="https://media.giphy.com/media/JqYrtRLKd495gN2HKb/giphy.gif" height="35px" />
-  <h2>GitHub Stats at a Glance</h2>
+  <h2>GitHub Achievements</h2>
+  <p><i>Generated daily by GitHub Actions via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></p>
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hassan-asim&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Hassan's GitHub Stats" />
+<img src="github-metrics.svg" alt="GitHub Metrics & Achievements" />
 
 </div>
 
@@ -278,6 +279,7 @@ class HassanAsim:
 <div align="center">
 
 > *Watch the snake roam and eat through my GitHub contributions!* 🐍
+> *(Appears after the **Generate Snake Animation** workflow is triggered once)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hassan-asim/Hassan-asim/output/github-contribution-grid-snake-dark.svg" />

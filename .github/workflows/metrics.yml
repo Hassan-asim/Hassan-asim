@@ -1,0 +1,34 @@
+name: GitHub Metrics & Achievements
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:        # Allow manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  # ── Achievements + Trophies Card ───────────────────────────────────────────
+  metrics-achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Achievements Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Use METRICS_TOKEN (PAT) for richer data, falls back to GITHUB_TOKEN
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Hassan-asim
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update metrics [skip ci]"
+          config_timezone: Asia/Karachi
